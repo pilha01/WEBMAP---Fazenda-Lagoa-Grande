@@ -36,7 +36,7 @@ O diferencial deste Webmap está na **origem dos dados** e na **simplicidade do 
 
 1.  **Página do webmap:**
     ```bash
-    webmap [https://pilha01.github.io/WEBMAP---Fazenda-Lagoa-Grande/]
+    https://pilha01.github.io/WEBMAP---Fazenda-Lagoa-Grande/
     ```
 
 
