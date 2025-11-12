@@ -1,0 +1,1 @@
+var json_IGREJA_10 = {"type":"FeatureCollection","name":"IGREJA_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-36.709274276630993,-10.285798368148132]}}]}
